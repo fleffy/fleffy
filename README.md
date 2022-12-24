@@ -1,9 +1,7 @@
 <div align='center'>
-<h1>
-💫 Hi there!
-</h1> 
+# 💫 Hi there!
 
-<h1>⚙️ Technologies & Tools</h1>
+##⚙️ Technologies & Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
