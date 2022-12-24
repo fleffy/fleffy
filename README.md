@@ -11,9 +11,10 @@
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=ffffff&color=bc4420)
 ![](https://img.shields.io/badge/Figma-informational?style=flat-square&logo=figma&logoColor=ffffff&color=5551ff)
+![](https://img.shields.io/badge/Next.JS-informational?style=flat-square&logo=next.js&logoColor=ffffff&color=000000)
+![](https://img.shields.io/badge/Redux-informational?style=flat-square&logo=redux&logoColor=ffffff&color=593d88)
 <!-- ![](https://img.shields.io/badge/Node.JS-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a) -->
 <!-- ![](https://img.shields.io/badge/React%20Native-informational?style=flat-square&logo=react&logoColor=36dff8&color=2d415c) -->
-<!-- ![](https://img.shields.io/badge/Next.JS-informational?style=flat-square&logo=next.js&logoColor=ffffff&color=000000) -->
 <!-- ![](https://img.shields.io/badge/Fastify-informational?style=flat-square&logo=fastify&logoColor=ffffff&color=000000) -->
 <!-- ![](https://img.shields.io/badge/C%20Sharp-informational?style=flat-square&logo=c-sharp&logoColor=8993be&color=2B2E3A) -->
 <!-- ![](https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&logoColor=8993be&color=2B2E3A) -->
