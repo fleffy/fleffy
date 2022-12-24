@@ -22,6 +22,10 @@
 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
+<h1>📫 How to reach me:</h1>
+
+<a href='https://t.me/fleffydesign'>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+
 
 <!-- <h1>GitHub Stats</h1>
 
