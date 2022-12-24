@@ -1,3 +1,4 @@
+<div align='center'>
 <h1>💫 Hi there!
 </h1> 
 
@@ -19,6 +20,7 @@
 <h1>📫 How to reach me</h1>
 
 <a href='https://t.me/fleffydesign'>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+</div>
 
 
 <!-- <h1>GitHub Stats</h1>
