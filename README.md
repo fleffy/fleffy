@@ -1,7 +1,7 @@
 <div align='center'>
   
-# 💫 Hi there!
-
+![Logo](https://em-content.zobj.net/source/apple/391/ogre_1f479.png)
+<!--
 ## ⚙️ Technologies & Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
